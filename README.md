@@ -37,7 +37,7 @@
 Клонировать репозиторий:
 
 ```bash
-git clone https://github.com/USERNAME/internet-speed-test.git
+git clone https://github.com/WilJames/python-internet-speed-test.git
 cd internet-speed-test
 ```
 
