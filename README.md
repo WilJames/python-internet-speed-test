@@ -142,4 +142,4 @@ CHUNK_SIZE = 1024 * 1024
 
 MIT License
 
-See LICENSE for details.
+See [LICENSE](https://github.com/WilJames/python-internet-speed-test/blob/main/LICENSE) for details.
